@@ -1,0 +1,4 @@
+Dataset Stats:
+	Per packet:
+		Table: type of package vs number count, number percentage, total bytes
+		CDF of the size: size
